@@ -1,0 +1,14 @@
+.heading1{
+    color: red;
+    font-size:50px;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+    .text{
+        background-color: blue;
+        color: white;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 20px;
+    }
